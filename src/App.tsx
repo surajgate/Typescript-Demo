@@ -21,6 +21,7 @@ const List = [
       <Welcome/>
 
       <Props names = {List} />
+      
     </>
   );
 }

@@ -7,7 +7,6 @@ type PersonList = {
     }[]
 }
 
-
 export default function Props(props: PersonList) {
     return (
         <>
